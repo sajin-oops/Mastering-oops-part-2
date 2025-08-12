@@ -13,3 +13,11 @@ player_one.display_info()
 player_one.take_damage(40)
 player_one.display_info()
 
+'''
+O/P
+
+Player - Snow, Health = 100, Attack Power = 70
+Snow took 40 damage. Health is now 60
+Player - Snow, Health = 60, Attack Power = 70
+'''
+
